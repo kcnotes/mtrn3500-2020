@@ -11,7 +11,7 @@ Welcome to MTRN3500!
 * We use a RIO controller in the labs, this is a programmable logic controller (PLC). 
 	* You can think of a PLC as a high level microcontroller (e.g. Arduino), but with various things integrated within, including memory, interfaces (like Ethernet), I/O modules and control modules like PID. It's used to control and interface with larger robotics systems with various modules/components. An example of a system would be an Amazon delivery warehouse with conveyors, light sensors, barcodes - a PLC can operate and both send conveyor movements and receive sensor data.
 
-<img src="http://www.galilmc.com/sites/default/files/styles/product_page_image/public/products/rio-471xx_big.png" style="width:300px;"/>
+<img src="/mtrn3500-2020/rio.png" style="width:300px;"/>
 * For the one in the lab:
 	* You can produce and read analog and digital voltages
 	* There are two banks of LEDs at the top of the board, which you can write to
